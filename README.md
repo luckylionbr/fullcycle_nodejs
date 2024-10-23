@@ -1,0 +1,1 @@
+Fazendo uma tentativa, infelizmente não estou conseguindo acessar o banco de dados de jeito nenhum, fica dando um retorno infinito de bad gateway se puderem me ajudar me explicando o que estou errando agradeço
